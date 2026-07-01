@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/driving-school-backend/analytics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/analytics-service/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/attendance-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/common-library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/instructor-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/payment-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/driving-school-backend/student-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/driving-school-backend/vehicle-service/src/main/java" charset="UTF-8" />
   </component>
 </project>

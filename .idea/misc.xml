@@ -5,6 +5,18 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/driving-school-backend/student-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/analytics-service/student-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/analytics-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/attendance-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/common-library/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/instructor-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/driving-school-backend/vehicle-service/pom.xml" />
       </list>
     </option>
   </component>
